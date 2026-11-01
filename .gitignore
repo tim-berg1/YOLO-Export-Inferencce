@@ -3,8 +3,7 @@
 *.mov
 *.avi
 
-# 缓存和虚拟环境
+# 排除缓存与环境
 __pycache__/
 *.pyc
 venv/
-.idea/
